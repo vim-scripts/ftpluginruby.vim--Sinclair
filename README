@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=373
+
+This is the official ftplugin intended for installation in the *global* ftplugin directory.
+
+It contains *no* settings, as no settings/mappings are known that transcend personal taste
+to become globally useful Ruby settings.
+
+The version included in Vim 6.1 sets shiftwidth and formatoptions, which is inappropriate.
